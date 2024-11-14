@@ -1,5 +1,3 @@
-Based on the retrieved files and the integration of MongoDB with .NET, here's a draft for your README file.
-
 # MongoDbExample
 
 This repository provides a simple example of how to integrate MongoDB with a .NET application. The project demonstrates the basic setup and usage of MongoDB within a .NET environment, including service registration, dependency injection, and basic CRUD operations.
