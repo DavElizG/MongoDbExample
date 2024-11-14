@@ -104,5 +104,3 @@ Feel free to submit issues or pull requests if you find any bugs or have suggest
 ## License
 
 This project is licensed under the MIT License.
-
-You can view the existing README file [here](https://github.com/DavElizG/MongoDbExample/blob/master/README.md).
